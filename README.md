@@ -1,4 +1,4 @@
-# Finance
+# Optimization and Forecasting
 
 This repo contains QUAAF's template notebooks for performing quantitative portfolio optimziation and ML share-price forecasting.
 
